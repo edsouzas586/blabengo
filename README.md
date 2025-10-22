@@ -1,3 +1,5 @@
-# blabengo
+git add .
+git commit -m "feat: implementa modo 'blabengo turbo' com 2x velocidade"
+git push
 nomeeeee
 gfgfff
